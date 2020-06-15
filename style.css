@@ -5,11 +5,11 @@ body{
     border-width: 1px;
     width: max-content;
     margin: 0 auto;
-    color: navy;
+    color: white;
     text-align: center;
     word-wrap: break-word;
 }
-.picOfLousiArmtrong{
+.picOfCoding{
     border-color: gray;
     border-width: 2.5px;
     border-style: solid;
